@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260724",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260725",
   "icons": [
     {
       "name": "emby",
@@ -1289,6 +1289,10 @@
     {
       "name": "pandatv-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/pandatv-emby.png"
+    },
+    {
+      "name": "pandaxiongmao-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/pandaxiongmao-emby.png"
     },
     {
       "name": "pangxie(1)-emby",
