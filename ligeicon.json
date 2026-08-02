@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260725",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260802",
   "icons": [
     {
       "name": "lige",
@@ -2981,6 +2981,10 @@
     {
       "name": "Loom",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/Loom.png"
+    },
+    {
+      "name": "LotusCloud",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/LotusCloud.png"
     },
     {
       "name": "Lray",
