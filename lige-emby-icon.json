@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260802",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260804",
   "icons": [
     {
       "name": "emby",
@@ -341,6 +341,10 @@
     {
       "name": "CFGC",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/CFGC.png"
+    },
+    {
+      "name": "chabaidao-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/chabaidao-emby.png"
     },
     {
       "name": "charon-emby",
@@ -961,6 +965,10 @@
     {
       "name": "lingche-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/lingche-emby.png"
+    },
+    {
+      "name": "liuguanghualang-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/liuguanghualang-emby.png"
     },
     {
       "name": "liulimen-emby",
