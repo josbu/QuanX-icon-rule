@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260806",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260807",
   "icons": [
     {
       "name": "emby",
@@ -1135,6 +1135,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Misty-emby.png"
     },
     {
+      "name": "mixuebingcheng-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/mixuebingcheng-emby.png"
+    },
+    {
       "name": "moli-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/moli-emby.png"
     },
@@ -1337,6 +1341,10 @@
     {
       "name": "Onyra-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Onyra-emby.png"
+    },
+    {
+      "name": "Overcookeddachu-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Overcookeddachu-emby.png"
     },
     {
       "name": "own-emby",
@@ -2049,6 +2057,14 @@
     {
       "name": "yuanwei-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/yuanwei-emby.png"
+    },
+    {
+      "name": "yuchu(1)-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/yuchu(1)-emby.png"
+    },
+    {
+      "name": "yuchu-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/yuchu-emby.png"
     },
     {
       "name": "yuebing(1)-emby",
