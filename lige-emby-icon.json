@@ -136,7 +136,7 @@
     },
     {
       "name": "senplayer",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/03CNSoft\/senplayer.png"
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/senplayer.png"
     },
     {
       "name": "NAS",
@@ -391,12 +391,12 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/CineTrail-emby.png"
     },
     {
-      "name": "Cloud-emby",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Cloud-emby.png"
-    },
-    {
       "name": "cloud-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/cloud-emby.png"
+    },
+    {
+      "name": "Cloud-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Cloud-emby.png"
     },
     {
       "name": "Club-emby",
@@ -1351,12 +1351,12 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/own-emby.png"
     },
     {
-      "name": "pandaTV-emby",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/pandaTV-emby.png"
-    },
-    {
       "name": "pandatv-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/pandatv-emby.png"
+    },
+    {
+      "name": "pandaTV-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/pandaTV-emby.png"
     },
     {
       "name": "pandaxiongmao-emby",
