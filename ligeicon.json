@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260807",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260810",
   "icons": [
     {
       "name": "lige",
@@ -3505,6 +3505,10 @@
     {
       "name": "taoqitu",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/taoqitu.png"
+    },
+    {
+      "name": "TapFog",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/TapFog.png"
     },
     {
       "name": "teasmoke",
