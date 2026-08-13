@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260812",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260813",
   "icons": [
     {
       "name": "emby",
@@ -136,7 +136,7 @@
     },
     {
       "name": "senplayer",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/senplayer.png"
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/03CNSoft\/senplayer.png"
     },
     {
       "name": "NAS",
@@ -403,12 +403,12 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/CineTrail-emby.png"
     },
     {
-      "name": "cloud-emby",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/cloud-emby.png"
-    },
-    {
       "name": "Cloud-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Cloud-emby.png"
+    },
+    {
+      "name": "cloud-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/cloud-emby.png"
     },
     {
       "name": "Club-emby",
@@ -1459,12 +1459,12 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/plus4-emby.png"
     },
     {
-      "name": "polo-emby",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/polo-emby.png"
-    },
-    {
       "name": "Polo-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Polo-emby.png"
+    },
+    {
+      "name": "polo-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/polo-emby.png"
     },
     {
       "name": "Porn-emby",
