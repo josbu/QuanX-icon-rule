@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260819",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260823",
   "icons": [
     {
       "name": "lige",
@@ -1429,6 +1429,10 @@
     {
       "name": "bahamute",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/bahamute.png"
+    },
+    {
+      "name": "banwagong",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/banwagong.png"
     },
     {
       "name": "bbc(1)",
