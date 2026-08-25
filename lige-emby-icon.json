@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260823",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260825",
   "icons": [
     {
       "name": "emby",
@@ -587,6 +587,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/erciyuan-emby.png"
     },
     {
+      "name": "etf-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/etf-emby.png"
+    },
+    {
       "name": "ETFLIX-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/ETFLIX-emby.png"
     },
@@ -1111,6 +1115,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/MeFun-VIP-emby.png"
     },
     {
+      "name": "menbao-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/menbao-emby.png"
+    },
+    {
       "name": "mengdie-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/mengdie-emby.png"
     },
@@ -1409,6 +1417,10 @@
     {
       "name": "Paolu-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Paolu-emby.png"
+    },
+    {
+      "name": "paomian-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/paomian-emby.png"
     },
     {
       "name": "Paul-emby",
@@ -2015,12 +2027,20 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/yidiandian-emby.png"
     },
     {
+      "name": "yihangtangyht-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/yihangtangyht-emby.png"
+    },
+    {
       "name": "yingluoting-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/yingluoting-emby.png"
     },
     {
       "name": "yingshifenxiang123-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/yingshifenxiang123-emby.png"
+    },
+    {
+      "name": "yingyangkuaixianyykx-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/yingyangkuaixianyykx-emby.png"
     },
     {
       "name": "yingyue-emby",
