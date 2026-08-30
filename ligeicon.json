@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260829",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260830",
   "icons": [
     {
       "name": "lige",
@@ -345,6 +345,10 @@
     {
       "name": "Loon",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/02ProxySoftLogo\/Loon.png"
+    },
+    {
+      "name": "loonsurgeEgern",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/02ProxySoftLogo\/loonsurgeEgern.png"
     },
     {
       "name": "mihomo",
