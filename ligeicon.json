@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260901",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260905",
   "icons": [
     {
       "name": "lige",
@@ -1505,6 +1505,10 @@
     {
       "name": "BlueskySocial",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/BlueskySocial.png"
+    },
+    {
+      "name": "btwcn",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/btwcn.png"
     },
     {
       "name": "bybit",
